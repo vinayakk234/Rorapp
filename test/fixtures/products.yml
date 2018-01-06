@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  price: 1
+  mfd: 2017-12-30
+  weight: 
+
+two:
+  title: MyString
+  price: 1
+  mfd: 2017-12-30
+  weight: 
